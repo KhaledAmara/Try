@@ -1,0 +1,20 @@
+
+
+
+
+
+
+git init 
+
+git add .   // to add all files
+
+or 
+git add "file name " // if i want to add certain file
+
+git commit -m "the comment i wanna add" // to add the comment to all files 
+
+git remote add origin <url>
+
+git push origin branchname
+
+asfsf
